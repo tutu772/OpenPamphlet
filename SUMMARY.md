@@ -1,5 +1,5 @@
-# Table of contents
+# Summary
 
 * [OpenPamphlet](README.md)
-* [Contents](contents.md)
+* [목차](contents.md)
 
