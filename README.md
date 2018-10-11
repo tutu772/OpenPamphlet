@@ -2,7 +2,7 @@
 
 ## 오픈소스 소책자 만들기
 
-![](.gitbook/assets/open-source-trends.jpg)
+![](/assets/open-source-trends.jpg)
 
 ### 워크플로
 
