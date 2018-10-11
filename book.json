@@ -1,48 +1,17 @@
 {
     "title": "My Book",
     "author": "Author",
-    "pluginsConfig": {
-        "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
-        }
-    }
-    // pdf 옵션
 	"pdf": {
-	
-		// font size. 기본은 12
-		"fontSize": 9,
-		
-		// paper size. 기본이 a4이므로 딱히 써주지 않아도 됨.
+		"fontSize": 24,
 		"paperSize": "a4",
-		
-		// font를 정해줄 수 있다. 하지만 난 안썼음..
-		"fontFamily": [폰트 이름],
-		
-		// chapter가 바꿜때 어떻게 할건지..
-		// 가능한 옵션 : pagebreak,rule,both,none
-		"chapterMark": "both"
-		
-		
-		// 페이지 여백 설정. 1인치가 72 
-		"margin": {
+		"fontFamily": "Malgun Gothic",
+		"chapterMark": "both",
+		"margin":{
 			"right": 42,
 			"left": 42,
 			"top": 56,
 			"bottom": 56
 		},
-		
-		// 페이지 위, 아래에 보일 값 선택 (적용되지 않음. 아래에 추가 설명)
 		"headerTemplate": "_TITLE_",
 		"footerTemplate": "_SECTION_"
 	}
