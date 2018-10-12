@@ -2,9 +2,9 @@
     "title": "My Book",
     "author": "Author",
 	"pdf": {
-		"fontSize": 24,
-		"paperSize": "a4",
-		"fontFamily": "Malgun Gothic",
+		"fontSize": 12,
+		"paperSize": "a5",
+		"fontFamily": "나눔명조",
 		"chapterMark": "both",
 		"margin":{
 			"right": 42,
