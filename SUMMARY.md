@@ -1,7 +1,6 @@
 # Summary
 
 * [OpenPamphlet](README.md)
-* [목차](contents.md)
 * [오픈소스란?](whatisopensource.md)
 * [HistoryofOpenSource](historyofopensource.md)
 * [AdvantageandPenalty](advantageandpenalty.md)
