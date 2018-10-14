@@ -22,8 +22,6 @@
     * [보안 문제](advantageandpenalty/penalty/security.md)
     * [잠재적인 비용](advantageandpenalty/penalty/hiddencost.md)
 * [OpensourceLicense](opensourcelicense.md)
-  * [Importance](opensourcelicense/importance.md)
-  * [Rule](opensourcelicense/rule.md)
 * [OpenSourceSoftware](opensourcesoftware.md)
 * [End](end.md)
 
