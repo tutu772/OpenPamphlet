@@ -6,12 +6,6 @@
 		"paperSize": "a5",
 		"fontFamily": "나눔명조",
 		"chapterMark": "both",
-		"margin":{
-			"right": 1,
-			"left": 1,
-			"top": 1,
-			"bottom": 1
-		},
 		"headerTemplate": "_TITLE_",
 		"footerTemplate": "_SECTION_"
 	}
