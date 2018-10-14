@@ -1,9 +1,6 @@
 ### 라이선스의 종류
 
----
-
 ** 널리 사용되는 라이선스**
-
 * Apache License 2.0 (Apache-2.0) 
 * 3-clause BSD license (BSD-3-Clause) 
 * 2-clause BSD license (BSD-2-Clause)
@@ -15,13 +12,11 @@
 * Eclipse Public License version 2.0
 
 **International licenses (국제 라이선스)**
-
 * Licence Libre du Québec – Permissive (LiLiQ-P) version 1.1 (LiLiQ-P-1.1)
 * Licence Libre du Québec – Réciprocité (LiLiQ-R) version 1.1 (LiLiQ-R-1.1)
 * Licence Libre du Québec – Réciprocité forte (LiLiQ-R+) version 1.1 (LiLiQ-Rplus-1.1)
 
 **Special purpose licenses (특수 목적 라이선스)**
-
 * BSD+Patent (BSD-2-Clause-Patent)
 * Educational Community License, Version 2.0 (ECL-2.0)
 * IPA Font License (IPA)
@@ -31,7 +26,6 @@
 * Upstream Compatibility License v1.0
 
 **Other/Miscellaneous licenses (기타 라이선스)**
-
 * Adaptive Public License (APL-1.0)
 * Artistic license 2.0 (Artistic-2.0)
 * Free Public License 1.0.0 (0BSD)
@@ -42,7 +36,6 @@
 
 **Licenses that are redundant with more popular licenses
 (유명한 라이선스에 의해 대체된 라이선스)**
-
 * Academic Free License (AFL-3.0)
 * Attribution Assurance Licenses (AAL)
 * Eiffel Forum License V2.0 (EFL-2.0)
@@ -54,7 +47,6 @@
 * X.Net License (Xnet)
 
 **Non-reusable licenses(재사용 할 수 없는 라이선스)**
-
 * Apple Public Source License (APSL-2.0)
 * Computer Associates Trusted Open Source License 1.1 (CATOSL-1.1)
 * CUA Office Public License Version 1.0 (CUA-OPL-1.0)
@@ -85,7 +77,6 @@
 
 **Superseded licenses
 (대체된 라이선스)**
-
 * Apache Software License 1.1 (Apache-1.1)
 * Artistic license 1.0 (Artistic-1.0)
 * Common Public License 1.0 (CPL-1.0)
@@ -101,7 +92,6 @@
 
 **Licenses that have been voluntarily retired
 (자발적으로 은퇴한 라이선스)**
-
 * Intel Open Source License (Intel)
 * Jabber Open Source License
 * MITRE Collaborative Virtual Workspace License (CVW)
@@ -109,7 +99,6 @@
 
 **Uncategorized Licenses
 (카테고리화 되지 않은 라이선스)**
-
 * Boost Software License (BSL-1.0)
 * CeCILL License 2.1 (CECILL-2.1)
 * Common Public Attribution License 1.0 (CPAL-1.0)
