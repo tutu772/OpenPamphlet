@@ -23,6 +23,8 @@
     * [잠재적인 비용](advantageandpenalty/penalty/hiddencost.md)
 * [오픈소스 라이선스](opensourcelicense.md)
   * [라이선스의 종류](opensourcelicense/typeoflicense.md)
+  * [라이선스 조항 및 프로젝트 사례](opensourcelicense/licenseruleproject.md)
+  * [라이선스 확인 방법](opensourcelicense/licensecheck.md)
 * [OpenSourceSoftware](opensourcesoftware.md)
 * [End](end.md)
 
