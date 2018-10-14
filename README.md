@@ -2,11 +2,9 @@
 
 ## 오픈소스 소책자 만들기
 
-![](/assets/open-source-trends.jpg)
+![](.gitbook/assets/open-source-trends%20%281%29.jpg)
 
 ### 워크플로
-
-#### 
 
 **중앙집중식 워크플로 방식으로 중앙 저장소 중심으로 작업한다. 자세한 방식은 아래링크에서 '비공개 소규모팀' 부분 참조.**
 
@@ -26,6 +24,4 @@
 3. **github 사이트에서 clone 버튼 클릭후 gitkraken을 이용하여 로컬로 가져온다.**
 4. **gitbook editor 다운로드\(**[**https://legacy.gitbook.com/editor**](https://legacy.gitbook.com/editor)**\)**
 5. **gitbook editor 실행후, gitbook editor 클릭 -&gt; import 클릭 -&gt; clone 해온 파일 선택후 확인 -&gt; open으로 실행**
-
-
 
