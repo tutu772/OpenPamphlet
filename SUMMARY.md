@@ -14,6 +14,7 @@
     * [GPL형 라이선스](opensourcelicense/licenseruleproject/gpllicense.md)
     * [MPL형 라이선스](opensourcelicense/licenseruleproject/mpllicense.md)
   * [라이선스 확인 방법](opensourcelicense/licensecheck.md)
-* [OpenSourceSoftware](opensourcesoftware.md)
+* [대표적인 오픈소스 소프트웨어](opensourcesoftware.md)
+* [해외 정부가 오픈소스 SW를 활용하는 방법](opensourcecountry.md)
 * [End](end.md)
 
