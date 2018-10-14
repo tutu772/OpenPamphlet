@@ -21,9 +21,8 @@
     * [광범위한 기술 지원 부족](advantageandpenalty/penalty/longrangesupport.md)
     * [보안 문제](advantageandpenalty/penalty/security.md)
     * [잠재적인 비용](advantageandpenalty/penalty/hiddencost.md)
-* [OpensourceLicense](opensourcelicense.md)
-  * [Importance](opensourcelicense/importance.md)
-  * [Rule](opensourcelicense/rule.md)
+* [오픈소스 라이선스](opensourcelicense.md)
+  * [라이선스의 종류](opensourcelicense/typeoflicense.md)
 * [OpenSourceSoftware](opensourcesoftware.md)
 * [End](end.md)
 
