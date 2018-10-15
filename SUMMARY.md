@@ -16,5 +16,6 @@
   * [라이선스 확인 방법](opensourcelicense/licensecheck.md)
 * [대표적인 오픈소스 소프트웨어](opensourcesoftware.md)
 * [해외 정부가 오픈소스 SW를 활용하는 방법](opensourcecountry.md)
-* [End](end.md)
+* [마치며](end.md)
+* [부록](extrapage.md)
 
