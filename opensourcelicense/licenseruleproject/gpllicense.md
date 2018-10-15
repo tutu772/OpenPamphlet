@@ -47,7 +47,8 @@ Bison은 GNU 파서 생성기로, 정의된 문법을 처리하고 해석하여 
 GNU Classpath25\) 프로젝트는 자바 언어의 가상머신 및 컴파일러에서 사용되는 핵심 클래스 라이브러리를 자유 소프트웨어로 대체하기 위한 프로젝트이다. 이를 널리 사용할 수 있도록, GNU Classpath 등 Classpath exception이 적용된 수정하지 않은 core class library를 link하여 생성한 program은 GPL의 영향을 받지 않는다. 예를 들면, OpenJDK 프로젝트에서 가상머신 자체는 GPL 2.0으로 배포하고, Class library와 가상머신 내의 Public API로 노출되는 부분은 Classpath exception으로 배포하고 있다.  
 
 **Autoconf exception**  
-GNU Autoconf26\)는 M4 매크로의 확장 패키지로, 소스코드 패키지들의 환경을 설정하는 쉘 스크립트를 자동으로 생성한다. Autoconf는 GPL로 배포되며, configure.ac의 시스템 정보를 입력받아, Autoconf의 일부분과 결합, configure 스크립트를 생성한다. 이에 해당 configure 내에 autoconf의 일부가 포함될 수밖에 없음에도 해당 configure는 GPL의 파생저작물이 되지 않도록 예외를 적용해주는 것이 autoconf exception이다.  
+GNU Autoconf26\)는 M4 매크로의 확장 패키지로, 소스코드 패키지들의 환경을 설정하는 쉘 스크립트를 자동으로 생성한다. Autoconf는 GPL로 배포되며, configure.ac의 시스템 정보를 입력받아, Autoconf의 일부분과 결합, configure 스크립트를 생성한다. 이에 해당 configure 내에 autoconf의 일부가 포함될 수밖에 없음에도 해당 configure는 GPL의 파생저작물이 되지 않도록 예외를 적용해주는 것이 autoconf exception이다. 
+ 
 | 라이선스의 특징 및 의무사항 | GPL 2.0 | GPL 3.0 | LGPL | AGPL 3.0 |
 | :--- | :--- | :--- | :--- | :--- |
 | 복제 배포 수정의 권한부여 | O | O | O | O |
