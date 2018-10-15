@@ -5,8 +5,6 @@
 		"fontSize": 12,
 		"paperSize": "a5",
 		"fontFamily": "나눔명조",
-		"chapterMark": "both",
-		"headerTemplate": "_TITLE_",
-		"footerTemplate": "_SECTION_"
+		"chapterMark": "none"
 	}
 }
