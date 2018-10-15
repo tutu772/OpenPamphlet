@@ -114,7 +114,10 @@
 * Simple Public License 2.0 (SimPL-2.0)
 * Open Group Test Suite License (OGTSL)
 
-**라이선스 순위**
+&nbsp;
+&nbsp;
+
+### 라이선스 순위
 
 ![](/assets/image01.png)
 
