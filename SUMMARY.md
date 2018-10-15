@@ -18,4 +18,7 @@
 * [해외 정부가 오픈소스 SW를 활용하는 방법](opensourcecountry.md)
 * [마치며](end.md)
 * [부록](extrapage.md)
+  * [다양한 오픈소스 소프트웨어](extrapage/manyoss.md)
+  * [여러가지 라이선스들](extrapage/c5ec-b7ec-ac00-c9c0-b77c-c774-c120-c2a4-b4e4.md)
+  * [git 프로그램 종류](extrapage/gitprogram.md)
 
