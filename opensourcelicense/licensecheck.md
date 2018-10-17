@@ -7,12 +7,12 @@
 두 번째로는 도구를 이용할 수 있는데, 도구에는 소스코드 내의 문자열을 검색하는 도구와 실제 소스코드 내용을 스캔하여 오픈소스코드와 비교하는 도구, 그리고 소스코드 없이 바이너리를 스캔하여 오픈소스를 확인하는 도구 3가지가 있다.
 
 **문자열 검색 도구**  
-1. FOSSology31\) : GPL 2.0  
-2. Ninka32\) : GPL 3.0  
-3. TripleCheck33\) : AGPL 3.0
+1. FOSSology: GPL 2.0  
+2. Ninka: GPL 3.0  
+3. TripleCheck : AGPL 3.0
 
 **코드 스캔 도구**  
-Black Duck Protex34\)  
+Black Duck Protex   
 Palamida  
 OpenLogic \(현재 Rogue Wave\)  
 Protecode \(현재 Synopsis\)  
@@ -20,5 +20,5 @@ Protecode \(현재 Synopsis\)
 
 **바이너리 스캔 도구**  
 BAT : 오픈소스 기반 \(Apache 2.0, 단, 데이터베이스는 상용\)  
-Codenomicon AppCheck40\) \(현재는 Synopsis\) : 상용 도구
+Codenomicon AppCheck \(현재는 Synopsis\) : 상용 도구
 
