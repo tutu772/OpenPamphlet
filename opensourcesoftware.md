@@ -3,9 +3,6 @@
 ---
 
 지금까지 오픈소스의 정의, 역사, 장단점, 라이선스에 대하여 알아보았다. 여기에서는 대표적인 오픈소스 소프트웨어에 대해서 알아볼 것이다. 현재 2018년을 기준으로 각 분야별 인기있는 소프트웨어에 대하여 설명한다. 여기에선  빅데이터, 소프트웨어 개발, 머신러닝, 총 세가지 분야로 나누어서 소개 할 예정이다.  
-빅데이터-https://www.oss.kr/info_techtip/show/c72d0707-e82b-44d9-a7a4-df82345c1897?page=1  
-소프트웨어 개발-https://www.oss.kr/info_techtip/show/8858033a-5ae4-47f2-8229-60a0dddc53d7  
-머신러닝-https://www.oss.kr/info_techtip/show/8d5292bf-f962-40cc-874e-558f269f4baa?page=1  
 
 ---
 

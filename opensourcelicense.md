@@ -1,3 +1,7 @@
+# 오픈소스 라이선스
+
+---
+
 ### 한컴, 오픈소스 라이선스 위반 혐의…국제 소송 휘말려
 
 [https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract/](https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract/)
