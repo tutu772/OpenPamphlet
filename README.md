@@ -25,3 +25,6 @@
 4. **gitbook editor 다운로드\(**[**https://legacy.gitbook.com/editor**](https://legacy.gitbook.com/editor)**\)**
 5. **gitbook editor 실행후, gitbook editor 클릭 -&gt; import 클릭 -&gt; clone 해온 파일 선택후 확인 -&gt; open으로 실행**
 
+### readme.md 에 대하여
+
+모든 작업이 끝나면 readme.md 파일에 적어놓은 안내사항들은 지워질것이며, 머릿말을 작성할것이다.
