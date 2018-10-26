@@ -19,7 +19,7 @@
 
 [https://wiki.kldp.org/HOWTO/html/Secure-Programs-HOWTO/history.html](https://wiki.kldp.org/HOWTO/html/Secure-Programs-HOWTO/history.html)
 
-**오픈소스역사와 성공, 리눅스의 등장, 오픈소스대세, 오픈소스가 성공한 이유**   
+**오픈소스역사와 성공, 리눅스의 등장, 오픈소스대세, 오픈소스가 성공한 이유**  
 **리눅스 토발즈, 유명한 오픈소스 소프트웨어 사진**  
 [https://brunch.co.kr/@bumgeunsong/15](https://brunch.co.kr/@bumgeunsong/15)
 
@@ -74,6 +74,8 @@
 [https://ko.wikipedia.org/wiki/솔라리스\_\(운영\_체제](https://ko.wikipedia.org/wiki/솔라리스_%28운영_체제)\) **오라클 솔라리스**  
 [https://www.openindiana.org/](https://www.openindiana.org/) **오픈 인디아나 \(솔라리스 오픈소스\)**
 
+[https://www.olis.or.kr/license/licenseClassiFication.do;olis\_JSESSIONID=9F63817BA7CC47624899D8CECF4DFB83?mapcode=010001&page=1](https://www.olis.or.kr/license/licenseClassiFication.do;olis_JSESSIONID=9F63817BA7CC47624899D8CECF4DFB83?mapcode=010001&page=1) **오픈소스SW 라이선스 종합정보시스템**
+
 **오픈소스 라이선스 호환성**  
 [http://www.gnu.org/licenses/license-list.html\#GPLCompatibleLicenses](http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses) **GPL 호환성**  
 [http://www.gnu.org/licenses/gpl-faq.html\#TOCWhatIsCompatible](http://www.gnu.org/licenses/gpl-faq.html#TOCWhatIsCompatible) **GPL FAQ**  
@@ -101,5 +103,6 @@
 **부록1,부록3**  
 [http://www.jopenbusiness.com/mediawiki/오픈소스\_종류](http://www.jopenbusiness.com/mediawiki/오픈소스_종류)
 
-**부록2**
-https://opensource.org/licenses/category
+**부록2**  
+[https://opensource.org/licenses/category](https://opensource.org/licenses/category)
+

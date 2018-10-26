@@ -16,7 +16,7 @@ Black Duck Protex
 Palamida  
 OpenLogic \(현재 Rogue Wave\)  
 Protecode \(현재 Synopsis\)  
-한국저작권위원회 코드아이
+한국저작권위원회 코드아이\(Code Eye\)
 
 **바이너리 스캔 도구**  
 BAT : 오픈소스 기반 \(Apache 2.0, 단, 데이터베이스는 상용\)  
