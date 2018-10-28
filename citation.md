@@ -62,10 +62,9 @@
 [https://opensource.org/licenses/category](https://opensource.org/licenses/category) **라이선스 종류 \(영어\)**  
 [https://www.olis.or.kr/license/licenseClassiFication.do?mapcode=010001&page=1](https://www.olis.or.kr/license/licenseClassiFication.do?mapcode=010001&page=1) **라이선스 분류 \(한국어\)**
 
-**공통적 준수사항**  
-[https://opensource.org/osd](https://opensource.org/osd) **Opensource의 정의**
 
-**라이선스별 조항 및 프로젝트 사례**
+
+**대표적인 라이선스 소개**
 
 [http://korea.gnu.org/documents/copyleft/gpl.ko.html](http://korea.gnu.org/documents/copyleft/gpl.ko.html) **gpl 2.0 한국어 번역본**  
 [https://www.gnu.org/licenses/rms-why-gplv3.ko.html](https://www.gnu.org/licenses/rms-why-gplv3.ko.html) **Tivoization \(gnu 사이트\)**  
@@ -75,6 +74,15 @@
 [https://www.openindiana.org/](https://www.openindiana.org/) **오픈 인디아나 \(솔라리스 오픈소스\)**
 
 [https://www.olis.or.kr/license/licenseClassiFication.do;olis\_JSESSIONID=9F63817BA7CC47624899D8CECF4DFB83?mapcode=010001&page=1](https://www.olis.or.kr/license/licenseClassiFication.do;olis_JSESSIONID=9F63817BA7CC47624899D8CECF4DFB83?mapcode=010001&page=1) **오픈소스SW 라이선스 종합정보시스템**
+
+**주도하는 라이선스의 변화**
+
+[https://osswatch.jiscinvolve.org/wp/2015/02/05/open-source-software-licensing-trends/](https://osswatch.jiscinvolve.org/wp/2015/02/05/open-source-software-licensing-trends/) **Open Source Software Licensing Trends**
+
+[https://www.blackducksoftware.com/top-open-source-licenses](https://www.blackducksoftware.com/top-open-source-licenses) **BLACKDUCK Top Open Source Licenses**
+
+**공통적 준수사항**  
+[https://opensource.org/osd](https://opensource.org/osd) **Opensource의 정의**
 
 **오픈소스 라이선스 호환성**  
 [http://www.gnu.org/licenses/license-list.html\#GPLCompatibleLicenses](http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses) **GPL 호환성**  
