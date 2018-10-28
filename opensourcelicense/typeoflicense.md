@@ -1,12 +1,9 @@
 # OSI에서 정의한 오픈소스 라이선스의 종류
 
-
-
 **Licenses that are "popular and widely-used or with strong communities \( 널리 사용되는 라이선스 \)**
 
-* Apache License 2.0 \(Apache-2.0\) 
-
-* 3-clause BSD license \(BSD-3-Clause\) 
+* Apache License 2.0 \(Apache-2.0\)
+* 3-clause BSD license \(BSD-3-Clause\)
 * 2-clause BSD license \(BSD-2-Clause\)
 * GNU General Public License \(GPL\)
 * GNU Lesser General Public License \(LGPL\)
@@ -31,17 +28,5 @@
 * SIL Open Font License 1.1 \(OFL-1.1\)
 * Upstream Compatibility License v1.0
 
-그밖에도 다양한 라이선스들이 존재하나, 종류가 많아서 전부 다 이 내용에 담지는 못했고, 이 책의 **부록**에 관련 내용을 서술하였다.
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-### 라이선스 순위
-
-![](/assets/image01.png)
-
-**출처 : **[https://www.blackducksoftware.com/top-open-source-licenses](https://www.blackducksoftware.com/top-open-source-licenses)
+그밖에도 다양한 라이선스들이 존재하나, 종류가 많아 이 책의 [**부록**](/extrapage/c5ec-b7ec-ac00-c9c0-b77c-c774-c120-c2a4-b4e4.md)에 관련 내용을 서술하였다.
 
