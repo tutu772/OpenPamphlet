@@ -29,4 +29,3 @@
 * Upstream Compatibility License v1.0
 
 그밖에도 다양한 라이선스들이 존재하나, 종류가 많아 이 책의 [**부록**](/extrapage/c5ec-b7ec-ac00-c9c0-b77c-c774-c120-c2a4-b4e4.md)에 관련 내용을 서술하였다.
-
