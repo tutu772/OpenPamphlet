@@ -5,6 +5,12 @@
 		"fontSize": 12,
 		"paperSize": "a5",
 		"fontFamily": "나눔명조",
-		"chapterMark": "none"
+		"chapterMark": "pagebreak",
+		"margin": {
+			"right": 42,
+			"left": 42,
+			"top": 56,
+			"bottom": 56
+		}
 	}
 }
