@@ -1,8 +1,10 @@
 # Summary
 
-* [OpenPamphlet](README.md)
+* [머리말](README.md)
 * [오픈소스란?](whatisopensource.md)
 * [오픈소스의 역사](historyofopensource.md)
+* [인기있는 오픈소스 소프트웨어](opensourcesoftware.md)
+* [해외 정부가 오픈소스 SW를 활용하는 방법](opensourcecountry.md)
 * [오픈소스의 장점 및 단점](advantageandpenalty.md)
   * [장점](advantageandpenalty/advantage.md)
   * [단점](advantageandpenalty/penalty.md)
@@ -13,8 +15,6 @@
   * [라이선스 호환성](opensourcelicense/b77c-c774-c120-c2a4-c591-b9bd-c131.md)
   * [라이선스 확인 방법](opensourcelicense/licensecheck.md)
   * [공통적 준수사항](opensourcelicense/commonrule.md)
-* [대표적인 오픈소스 소프트웨어](opensourcesoftware.md)
-* [해외 정부가 오픈소스 SW를 활용하는 방법](opensourcecountry.md)
 * [마치며](end.md)
 * [부록](extrapage.md)
   * [다양한 오픈소스 소프트웨어](extrapage/manyoss.md)
